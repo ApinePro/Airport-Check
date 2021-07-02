@@ -1,2 +1,2 @@
 # Airport-Check
-A simple assignment project in 2016, written in C
+A simple assignment project in 2017 spring, written in C
